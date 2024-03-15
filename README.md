@@ -1,4 +1,4 @@
-#4BARLTBTILS
+# 4BARLTBTILS
 
 ### Firmware Update Instructions
 1. Download the zip file onto your computer and extract the folder.
